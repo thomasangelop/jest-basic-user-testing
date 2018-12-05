@@ -1,0 +1,23 @@
+{
+  "name": "jest-basic-user-testing",
+  "version": "1.0.0",
+  "description": "Practice writing basic unit tests with Jest",
+  "main": "divisibleBy3And5.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasangelop/jest-basic-user-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasangelop/jest-basic-user-testing/issues"
+  },
+  "homepage": "https://github.com/thomasangelop/jest-basic-user-testing#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
